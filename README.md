@@ -116,7 +116,7 @@ As contribuições são o que torna a comunidade de código aberto um lugar incr
 <!-- Licença -->
 ## Licença
 
-Distribuído sob a licença MIT. Veja a [`LICENÇA`](https://github.com/jeferson0993/Simple-REST-API-with-PHP-and-MySQL/blob/main/LICENSE) para mais informações.
+Distribuído sob a licença Apache License 2.0. Veja a [`LICENÇA`](https://github.com/jeferson0993/Simple-REST-API-with-PHP-and-MySQL/blob/main/LICENSE) para mais informações.
 
 
 <!-- Contato -->
