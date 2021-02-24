@@ -1,10 +1,10 @@
 <?php
 class Database{
     
-    private $db_host = 'localhost';
-    private $db_name = 'id3236142_api_database';
-    private $db_username = 'id3236142_api_manager';
-    private $db_password = 'n*7jN6Gd9w1>)y[S';
+    private $db_host = '';
+    private $db_name = '';
+    private $db_username = '';
+    private $db_password = '';
     
     
     public function dbConnection(){
